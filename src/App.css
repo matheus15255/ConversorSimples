@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+  color: orange;
+}
+
+
+.linha{
+  display: flex;
+  margin-top: 150px;
+  justify-content: space-around;
+}
+h1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+button{
+  color: white;
+  background-color: orange;
+  border-radius: 4px;
+  height: 24px;
+  width: 100px;
+}
+button:hover{
+  color: grey;
+  background-color: rgb(219, 152, 26);
+}
+input{
+  width: 150px;
+}
+input:hover{
+  color: grey;
+  background-color: orange;
+}
